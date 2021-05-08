@@ -1,0 +1,10 @@
+{
+  "ids": {
+    "Profile": 1
+  },
+  "models": {
+    "Profile": {
+      "0": "{\"first_name\":\"Houari\",\"last_name\":\"Raouf\",\"created_at\":\"2021-05-08T00:00:00.000Z\",\"birth_date\":\"2007-01-11T00:00:00.000Z\",\"age\":15,\"history\":[{}],\"id\":0}"
+    }
+  }
+}
